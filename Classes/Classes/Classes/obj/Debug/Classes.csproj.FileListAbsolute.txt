@@ -1,0 +1,9 @@
+E:\ITRW123\Classes\Classes\bin\Debug\Classes.exe.config
+E:\ITRW123\Classes\Classes\bin\Debug\Classes.exe
+E:\ITRW123\Classes\Classes\bin\Debug\Classes.pdb
+E:\ITRW123\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+E:\ITRW123\Classes\Classes\obj\Debug\Classes.Form1.resources
+E:\ITRW123\Classes\Classes\obj\Debug\Classes.Properties.Resources.resources
+E:\ITRW123\Classes\Classes\obj\Debug\Classes.csproj.GenerateResource.Cache
+E:\ITRW123\Classes\Classes\obj\Debug\Classes.exe
+E:\ITRW123\Classes\Classes\obj\Debug\Classes.pdb

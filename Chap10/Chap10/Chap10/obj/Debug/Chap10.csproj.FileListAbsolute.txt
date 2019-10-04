@@ -1,0 +1,9 @@
+E:\ITRW 123\Chap10\Chap10\bin\Debug\Chap10.exe.config
+E:\ITRW 123\Chap10\Chap10\bin\Debug\Chap10.exe
+E:\ITRW 123\Chap10\Chap10\bin\Debug\Chap10.pdb
+E:\ITRW 123\Chap10\Chap10\obj\Debug\Chap10.csprojResolveAssemblyReference.cache
+E:\ITRW 123\Chap10\Chap10\obj\Debug\Chap10.Form1.resources
+E:\ITRW 123\Chap10\Chap10\obj\Debug\Chap10.Properties.Resources.resources
+E:\ITRW 123\Chap10\Chap10\obj\Debug\Chap10.csproj.GenerateResource.Cache
+E:\ITRW 123\Chap10\Chap10\obj\Debug\Chap10.exe
+E:\ITRW 123\Chap10\Chap10\obj\Debug\Chap10.pdb

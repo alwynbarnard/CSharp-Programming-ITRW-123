@@ -1,0 +1,9 @@
+E:\ITRW 123\Clas9Oct\Clas9Oct\bin\Debug\Clas9Oct.exe.config
+E:\ITRW 123\Clas9Oct\Clas9Oct\bin\Debug\Clas9Oct.exe
+E:\ITRW 123\Clas9Oct\Clas9Oct\bin\Debug\Clas9Oct.pdb
+E:\ITRW 123\Clas9Oct\Clas9Oct\obj\Debug\Clas9Oct.csprojResolveAssemblyReference.cache
+E:\ITRW 123\Clas9Oct\Clas9Oct\obj\Debug\Clas9Oct.Form1.resources
+E:\ITRW 123\Clas9Oct\Clas9Oct\obj\Debug\Clas9Oct.Properties.Resources.resources
+E:\ITRW 123\Clas9Oct\Clas9Oct\obj\Debug\Clas9Oct.csproj.GenerateResource.Cache
+E:\ITRW 123\Clas9Oct\Clas9Oct\obj\Debug\Clas9Oct.exe
+E:\ITRW 123\Clas9Oct\Clas9Oct\obj\Debug\Clas9Oct.pdb
