@@ -1,0 +1,9 @@
+E:\ITRW123\Klas23082017\Klas23082017\bin\Debug\Klas23082017.exe.config
+E:\ITRW123\Klas23082017\Klas23082017\bin\Debug\Klas23082017.exe
+E:\ITRW123\Klas23082017\Klas23082017\bin\Debug\Klas23082017.pdb
+E:\ITRW123\Klas23082017\Klas23082017\obj\Debug\Klas23082017.csprojResolveAssemblyReference.cache
+E:\ITRW123\Klas23082017\Klas23082017\obj\Debug\Klas23082017.Form1.resources
+E:\ITRW123\Klas23082017\Klas23082017\obj\Debug\Klas23082017.Properties.Resources.resources
+E:\ITRW123\Klas23082017\Klas23082017\obj\Debug\Klas23082017.csproj.GenerateResource.Cache
+E:\ITRW123\Klas23082017\Klas23082017\obj\Debug\Klas23082017.exe
+E:\ITRW123\Klas23082017\Klas23082017\obj\Debug\Klas23082017.pdb

@@ -1,0 +1,9 @@
+E:\ITRW 123\Klas12Okt\Klas12Okt\bin\Debug\Klas12Okt.exe.config
+E:\ITRW 123\Klas12Okt\Klas12Okt\bin\Debug\Klas12Okt.exe
+E:\ITRW 123\Klas12Okt\Klas12Okt\bin\Debug\Klas12Okt.pdb
+E:\ITRW 123\Klas12Okt\Klas12Okt\obj\Debug\Klas12Okt.csprojResolveAssemblyReference.cache
+E:\ITRW 123\Klas12Okt\Klas12Okt\obj\Debug\Klas12Okt.Form1.resources
+E:\ITRW 123\Klas12Okt\Klas12Okt\obj\Debug\Klas12Okt.Properties.Resources.resources
+E:\ITRW 123\Klas12Okt\Klas12Okt\obj\Debug\Klas12Okt.csproj.GenerateResource.Cache
+E:\ITRW 123\Klas12Okt\Klas12Okt\obj\Debug\Klas12Okt.exe
+E:\ITRW 123\Klas12Okt\Klas12Okt\obj\Debug\Klas12Okt.pdb

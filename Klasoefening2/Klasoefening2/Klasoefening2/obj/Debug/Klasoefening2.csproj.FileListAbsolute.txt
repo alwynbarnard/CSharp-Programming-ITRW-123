@@ -1,0 +1,9 @@
+E:\ITRW123\Klasoefening2\Klasoefening2\bin\Debug\Klasoefening2.exe.config
+E:\ITRW123\Klasoefening2\Klasoefening2\bin\Debug\Klasoefening2.exe
+E:\ITRW123\Klasoefening2\Klasoefening2\bin\Debug\Klasoefening2.pdb
+E:\ITRW123\Klasoefening2\Klasoefening2\obj\Debug\Klasoefening2.csprojResolveAssemblyReference.cache
+E:\ITRW123\Klasoefening2\Klasoefening2\obj\Debug\Klasoefening2.Form1.resources
+E:\ITRW123\Klasoefening2\Klasoefening2\obj\Debug\Klasoefening2.Properties.Resources.resources
+E:\ITRW123\Klasoefening2\Klasoefening2\obj\Debug\Klasoefening2.csproj.GenerateResource.Cache
+E:\ITRW123\Klasoefening2\Klasoefening2\obj\Debug\Klasoefening2.exe
+E:\ITRW123\Klasoefening2\Klasoefening2\obj\Debug\Klasoefening2.pdb
