@@ -1,0 +1,9 @@
+E:\ITRW123\rectangle\rectangle\bin\Debug\rectangle.exe.config
+E:\ITRW123\rectangle\rectangle\bin\Debug\rectangle.exe
+E:\ITRW123\rectangle\rectangle\bin\Debug\rectangle.pdb
+E:\ITRW123\rectangle\rectangle\obj\Debug\rectangle.csprojResolveAssemblyReference.cache
+E:\ITRW123\rectangle\rectangle\obj\Debug\rectangle.Form1.resources
+E:\ITRW123\rectangle\rectangle\obj\Debug\rectangle.Properties.Resources.resources
+E:\ITRW123\rectangle\rectangle\obj\Debug\rectangle.csproj.GenerateResource.Cache
+E:\ITRW123\rectangle\rectangle\obj\Debug\rectangle.exe
+E:\ITRW123\rectangle\rectangle\obj\Debug\rectangle.pdb
