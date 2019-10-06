@@ -1,0 +1,9 @@
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\bin\Debug\Prak6 deel 2.exe.config
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\bin\Debug\Prak6 deel 2.exe
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\bin\Debug\Prak6 deel 2.pdb
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\obj\Debug\Prak6 deel 2.csprojResolveAssemblyReference.cache
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\obj\Debug\Prak6_deel_2.Form1.resources
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\obj\Debug\Prak6_deel_2.Properties.Resources.resources
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\obj\Debug\Prak6 deel 2.csproj.GenerateResource.Cache
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\obj\Debug\Prak6 deel 2.exe
+E:\ITRW123\Prak6\Prak6 deel 2\Prak6 deel 2\obj\Debug\Prak6 deel 2.pdb
